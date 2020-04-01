@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Players</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>Role</key>
+			<string>GOALKEEPER</string>
+			<key>Name</key>
+			<string>Ter Stegen</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>Name</key>
+			<string>Nélson Semedo</string>
+			<key>Role</key>
+			<string>DEFENDER</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Name</key>
+			<string>Piqué</string>
+			<key>Role</key>
+			<string>DEFENDER</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>Name</key>
+			<string>I. Rakitic</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Name</key>
+			<string>Sergio</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>Name</key>
+			<string>Denis Suárez</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>Name</key>
+			<string>Arda</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>Name</key>
+			<string>A. Iniesta</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Name</key>
+			<string>Luis Suárez</string>
+			<key>Role</key>
+			<string>FORWARD</string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>Name</key>
+			<string>Messi</string>
+			<key>Role</key>
+			<string>FORWARD</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>Name</key>
+			<string>Dembélé</string>
+			<key>Role</key>
+			<string>FORWARD</string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>Name</key>
+			<string>Rafinha</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>Name</key>
+			<string>Cillessen</string>
+			<key>Role</key>
+			<string>GOALKEEPER</string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>Name</key>
+			<string>Mascherano</string>
+			<key>Role</key>
+			<string>DEFENDER</string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>Name</key>
+			<string>Paulinho</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>Name</key>
+			<string>Deulofeu</string>
+			<key>Role</key>
+			<string>FORWARD</string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>Name</key>
+			<string>Paco Alcácer</string>
+			<key>Role</key>
+			<string>FORWARD</string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>Name</key>
+			<string>Jordi Alba</string>
+			<key>Role</key>
+			<string>DEFENDER</string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>Name</key>
+			<string>Digne</string>
+			<key>Role</key>
+			<string>DEFENDER</string>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>Name</key>
+			<string>S. Roberto</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>21</key>
+		<dict>
+			<key>Name</key>
+			<string>André Gomes</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>22</key>
+		<dict>
+			<key>Name</key>
+			<string>Aleix Vidal</string>
+			<key>Role</key>
+			<string>MIDFIELDER</string>
+		</dict>
+		<key>23</key>
+		<dict>
+			<key>Name</key>
+			<string>Umtiti</string>
+			<key>Role</key>
+			<string>DEFENDER</string>
+		</dict>
+		<key>25</key>
+		<dict>
+			<key>Name</key>
+			<string>Vermaelen</string>
+			<key>Role</key>
+			<string>DEFENDER</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
